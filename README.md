@@ -11,3 +11,9 @@ npm install
 Check for available environments: # npm run
 # npm run dev
 ```
+### Configs
+
+```javascript
+Navigate to 'src>lib>axios.ts' and configure baseURL for GiantSA REST API
+Navigate to 'src>pages>signin.tsx' and configure handleSignIn function for login details and cookie settings
+```
