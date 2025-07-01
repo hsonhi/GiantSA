@@ -1,0 +1,30 @@
+export interface IClient {
+  ID: number
+  NOME: string
+  DATA_NASCIMENTO: string
+  SEXO: string
+  ESTADO_CIVIL: string
+  NIB: string
+  NIF: string
+  NOME_PAI: string
+  NOME_MAE: string
+  IDENTIFICACAO: string
+  IDENTIFICACAO_NUMERO: string
+  IDENTIFICACAO_DATA_EMISSAO: string
+  IDENTIFICACAO_DATA_VALIDADE: string
+  TELEFONE: string
+  TELEFONE_ALTERNATIVO: string
+  EMAIL: string
+  CAIXA_POSTAL: string | null
+  ENDERECO_CIDADE: string
+  ENDERECO_NUMERO: string | null
+  ENDERECO_RUA: string
+  ENDERECO_MORADA: string
+  NATURALIDADE: string
+  PROFISSAO: string
+  RENUMERACAO: string
+  IDENTIFICACAO_AUTOMOVEL: string
+  IDENTIFICACAO_AUTOMOVEL_NUMERO: string
+  IDENTIFICACAO_AUTOMOVEL_DATA_EMISSAO: string
+  IDENTIFICACAO_AUTOMOVEL_DATA_VALIDADE: string
+}
