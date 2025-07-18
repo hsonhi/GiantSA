@@ -1,6 +1,6 @@
 ## GiantSA React
 
-A React Application for the Frontend UI of the GiantSA REST API built with React/Next.js, TypeScript and Tailwind
+A React Application for the Frontend UI of the GiantSA REST API built with React, Next.js, TypeScript and Tailwind
 
 ### Quick setup
 
